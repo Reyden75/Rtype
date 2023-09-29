@@ -45,7 +45,7 @@ Prérequis :
 Tout d'abord, téléchargez le projet ; il peut être installé n'importe où.
 
 ```shell
-git clone https://github.com/EpitechPromo2025/B-CPP-500-PAR-5-2-rtype-alexandre.collin-betheuil.git
+git clone https://github.com/Reyden75/Rtype
 ```
 
 Vous devrez installer le paquet sfml avec VCPKG.
@@ -78,7 +78,7 @@ Prérequis :
 Tout d'abord, téléchargez le projet ; il peut être installé n'importe où.
 
 ```shell
-git clone https://github.com/EpitechPromo2025/B-CPP-500-PAR-5-2-rtype-alexandre.collin-betheuil.git
+git clone https://github.com/Reyden75/Rtype
 ```
 
 Vous devrez installer le paquet sfml avec VCPKG.
