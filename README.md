@@ -48,7 +48,7 @@ Prerequisites:
 First, download the project; it can be installed anywhere.
 
 ```shell
-git clone https://github.com/EpitechPromo2025/B-CPP-500-PAR-5-2-rtype-alexandre.collin-betheuil.git
+git clone https://github.com/Reyden75/Rtype
 ```
 
 You will need to install the sfml package with VCPKG.
@@ -81,7 +81,7 @@ Prerequisites:
 First, download the project; it can be installed anywhere.
 
 ```shell
-git clone https://github.com/EpitechPromo2025/B-CPP-500-PAR-5-2-rtype-alexandre.collin-betheuil.git
+git clone https://github.com/Reyden75/Rtype
 ```
 
 You will need to install the sfml package with VCPKG.
