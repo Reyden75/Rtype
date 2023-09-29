@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<general>
+	<settings>
+		<map level="1" players="4" duration="600" difficulty="Hard" boss="false"/>
+	</settings>
+	<enemies>
+		<enemy>
+			<stats name="unos" hp="2" velocity="200" pattern="Vertical"/>
+			<spawn spawnInterval="2" appearenceTime="0" duration="300"/>
+			<ability shooting="true" damage="5"/>
+			<sprites sprite="./sprites/enemy1.gif" shootingSprite="" left="0" top="0" width="300" height="240"/>
+		</enemy>
+        <enemy>
+			<stats name="unos" hp="2" velocity="200" pattern="Vertical"/>
+			<spawn spawnInterval="2" appearenceTime="0" duration="300"/>
+			<ability shooting="true" damage="5"/>
+			<sprites sprite="./sprites/enemy2.gif" shootingSprite="" left="0" top="0" width="300" height="240"/>
+		</enemy>
+        <enemy>
+			<stats name="unos" hp="2" velocity="200" pattern="Vertical"/>
+			<spawn spawnInterval="2" appearenceTime="0" duration="300"/>
+			<ability shooting="true" damage="5"/>
+			<sprites sprite="./sprites/enemy3.gif" shootingSprite="" left="0" top="0" width="300" height="240"/>
+		</enemy>
+        <enemy>
+			<stats name="unos" hp="2" velocity="200" pattern="Vertical"/>
+			<spawn spawnInterval="2" appearenceTime="0" duration="300"/>
+			<ability shooting="true" damage="5"/>
+			<sprites sprite="./sprites/enemy1.gif" shootingSprite="" left="0" top="0" width="300" height="240"/>
+		</enemy>
+	</enemies>
+</general>
